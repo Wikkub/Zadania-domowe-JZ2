@@ -12,6 +12,7 @@ public class Task8<E> {
     }
 
     public List <E> list (List<E> list) {
+        System.out.println(list);
         return list;
     }
 }
